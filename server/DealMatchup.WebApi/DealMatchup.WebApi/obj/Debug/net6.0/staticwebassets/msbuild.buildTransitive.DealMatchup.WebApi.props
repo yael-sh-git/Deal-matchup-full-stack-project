@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DealMatchup.WebApi.props" />
+</Project>

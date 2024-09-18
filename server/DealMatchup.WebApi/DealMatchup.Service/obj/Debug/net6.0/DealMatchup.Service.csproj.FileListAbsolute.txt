@@ -1,0 +1,136 @@
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CopyComplete
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CopyComplete
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CopyComplete
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CopyComplete
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CopyComplete
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.deps.json
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Common.pdb
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatc.34A1B769.Up2Date
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\refint\DealMatchup.Service.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\DealMatchup.Service.pdb
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.Service\obj\Debug\net6.0\ref\DealMatchup.Service.dll

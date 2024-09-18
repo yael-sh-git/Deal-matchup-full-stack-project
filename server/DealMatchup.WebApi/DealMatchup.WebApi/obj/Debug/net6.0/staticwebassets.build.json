@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TdOc7iiTdXrJ2lTVzW5E49NUQVxkMVo4lmnnI0OaJhg=",
+  "Source": "DealMatchup.WebApi",
+  "BasePath": "_content/DealMatchup.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

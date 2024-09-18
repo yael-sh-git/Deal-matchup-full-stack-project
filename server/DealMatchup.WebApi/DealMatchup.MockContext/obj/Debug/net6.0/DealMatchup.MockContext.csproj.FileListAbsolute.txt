@@ -1,0 +1,127 @@
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.deps.json
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.runtimeconfig.json
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\שעורי בית\c# -סירוקה\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\ref\DealMatchup.MockContext.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.deps.json
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.pdb
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.pdb
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\יעל שער\c#++\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\ref\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.deps.json
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.runtimeconfig.json
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\ref\DealMatchup.MockContext.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+E:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.deps.json
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.runtimeconfig.json
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CopyComplete
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.genruntimeconfig.cache
+D:\יד\סירוקה - C#\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\ref\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.deps.json
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.runtimeconfig.json
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\שעורי בית\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\ref\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.deps.json
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\פרויקט\מעודכן\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\ref\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.deps.json
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\bin\Debug\net6.0\DealMatchup.Repository.pdb
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatc.5D0A043F.Up2Date
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\refint\DealMatchup.MockContext.dll
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.pdb
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\DealMatchup.MockContext.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\פרויקט שיתוף מבצעים\DealMatchupProject\server\DealMatchup.WebApi\DealMatchup.MockContext\obj\Debug\net6.0\ref\DealMatchup.MockContext.dll
