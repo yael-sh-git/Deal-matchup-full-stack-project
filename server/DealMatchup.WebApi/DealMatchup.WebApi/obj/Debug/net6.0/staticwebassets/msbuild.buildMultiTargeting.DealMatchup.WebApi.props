@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DealMatchup.WebApi.props" />
+</Project>
